@@ -1,0 +1,71 @@
+# Redline Terms of Service
+Effective Date: 2/23/26
+
+These Terms of Service ("Terms") govern your use of Redline, including the Redline Discord bot and any related services (collectively, the "Service"). By using Redline, you agree to these Terms.
+
+## 1. Description of Service
+
+Redline is a moderation and scam-reporting platform designed to help online communities track and manage verified scam reports. The Service allows users to submit reports with supporting evidence, and allows authorized staff to review, approve, or decline those reports.
+
+Redline stores structured case information tied to Discord user IDs for moderation and safety purposes.
+
+Redline does not guarantee the accuracy of user-submitted reports. All reports require evidence and are subject to staff review.
+
+## 2. Eligibility
+
+You must comply with Discord’s Terms of Service and Community Guidelines to use Redline. By using the Service, you confirm that your use does not violate Discord’s policies.
+
+## 3. User Responsibilities
+
+When submitting a report through Redline, you agree that:
+
+- You will provide truthful and accurate information.
+- You will only submit reports supported by legitimate evidence.
+- You will not submit false, malicious, or retaliatory reports.
+- You understand that false reporting may result in loss of access to the Service.
+
+Server administrators are responsible for how they configure and use Redline within their communities.
+
+## 4. Moderation Actions
+
+Redline provides tools such as ban, kick, and softban utilities. All moderation actions are executed by server moderators and are the responsibility of the server using the Service.
+
+Redline is not responsible for how servers choose to enforce moderation decisions.
+
+## 5. Data Storage
+
+Redline stores:
+- Discord user IDs
+- Report details submitted by users
+- Evidence attachments provided during report submission
+- Moderation case records
+
+This information is stored to provide scam tracking and moderation functionality across participating servers.
+
+Redline does not access private messages, scrape Discord data, or collect information outside of what users and servers voluntarily submit through the bot.
+
+## 6. No Guarantee of Reputation Accuracy
+
+Redline is a reporting platform. A report marked as “confirmed” reflects a decision made by reviewing staff based on submitted evidence.
+
+Redline does not guarantee that a user is guilty of wrongdoing, nor does it guarantee that all wrongdoing is reported.
+
+## 7. Limitation of Liability
+
+Redline is provided "as is" without warranties of any kind. We are not liable for:
+
+- Decisions made by server moderators
+- Incorrect, incomplete, or misleading reports submitted by users
+- Any damages arising from use of the Service
+
+## 8. Termination
+
+Access to Redline may be restricted or revoked for abuse, misuse, false reporting, or violation of these Terms.
+
+## 9. Changes to Terms
+
+We may update these Terms at any time. Continued use of the Service after updates constitutes acceptance of the revised Terms.
+
+## 10. Contact
+
+For questions, concerns, or disputes, contact us through the official Redline Discord server.
