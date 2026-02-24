@@ -1,0 +1,76 @@
+# Redline Privacy Policy
+Effective Date: 2/23/26
+
+This Privacy Policy explains how Redline collects, uses, and stores information.
+
+## 1. Information We Collect
+
+Redline collects and stores only information necessary to operate the Service.
+
+This includes:
+
+- Discord user IDs
+- Discord server IDs
+- Report details submitted by users
+- Evidence attachments provided during reports
+- Moderation action records
+- Configuration data set by server administrators
+
+Redline does not collect:
+- Passwords
+- Email addresses
+- Private messages
+- Discord message history outside of submitted reports
+- Data unrelated to bot interaction
+
+## 2. How Information Is Collected
+
+Information is collected only when:
+
+- A user submits a report
+- A moderator executes a moderation action
+- A server administrator configures the bot
+- A user interacts with the bot’s commands
+
+Redline does not scrape Discord, monitor servers passively, or access data without direct interaction.
+
+## 3. How Information Is Used
+
+Collected information is used to:
+
+- Store and review scam reports
+- Track confirmed scam cases
+- Enable moderation tools
+- Provide cross-server scam history where applicable
+- Improve functionality and stability of the Service
+
+## 4. Data Sharing
+
+Redline does not sell, rent, or trade user data.
+
+Report information may be visible to:
+- Authorized staff reviewing reports
+- Participating servers where relevant scam history is displayed
+- The reporting user and the reviewing staff
+
+## 5. Data Retention
+
+Data is retained as long as necessary to provide the Service, unless removal is required by law or policy.
+
+Requests for data review or removal may be submitted through the official Redline server.
+
+## 6. Security
+
+Reasonable measures are taken to protect stored data. However, no system can guarantee absolute security.
+
+## 7. Third-Party Services
+
+Redline operates within Discord and is subject to Discord’s Terms of Service and Privacy Policy.
+
+## 8. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Continued use of the Service after changes constitutes acceptance of the updated policy.
+
+## 9. Contact
+
+For privacy-related inquiries, contact us through the official Redline Discord server.
